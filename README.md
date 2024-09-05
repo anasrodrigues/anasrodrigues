@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Hoje sou estudante do SESI
+- 🔭 Hoje sou estudante do SENAI
 - 🌱 Estudando php e mysql
 - 📧 Contate-me no e-mail: anaclarasenai02@gmail.com
 - 😄 Pronouns: ela/dela
